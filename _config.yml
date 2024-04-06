@@ -7,14 +7,11 @@ description: >
   Georgia Anderson description
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
-#hide_share_buttons: true
-#theme_color: '#eeeeee'
-#fixed_navbar: top
+fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 remote_theme: chrisrhymes/bulma-clean-theme
-paginate: 5
-paginate_path: "/blog/page:num"
+#paginate: 5
+#paginate_path: "/blog/page:num"
 
 # Disqus Comments
 disqus:
@@ -70,7 +67,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
-footer_menu: example_footer_menu
+footer_menu: footer
 
 collections:
   products: 
