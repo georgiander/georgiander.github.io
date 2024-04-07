@@ -1,3 +1,9 @@
+---
+title: Classification Models on Churn
+layout: page
+show_sidebar: true
+---
+
 # Various Classification Models on Customer Churn
 
 [GitHub Repository](georgiander.github.io)
@@ -36,7 +42,7 @@ This report will outline the process taken for choosing a model regarding custom
 |Payment Method|Bank Withdrawal, Credit Card, Mailed Check|
 |Monthly Charges|Continous|
 |Total Charges|Continous|
-|Churn (Target Class)|Yes, No|
+|**Churn (Target Class)**|**Yes, No**|
 
 </details>  
 
