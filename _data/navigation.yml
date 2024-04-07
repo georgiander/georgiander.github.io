@@ -1,6 +1,6 @@
 
 - name: Projects
-  link: /projects/
+  link: /projects/projects/
   dropdown:
     - name: Classification Models for Customer Churn
       link: /projects/churnmodel/

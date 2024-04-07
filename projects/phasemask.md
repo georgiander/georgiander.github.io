@@ -1,7 +1,7 @@
 ---
 title: Phase Mask Creation
 layout: page
-show_sidebar: true
+menubar: projects_menu
 ---
 
 # Phase Mask Creation Using Fourier Analysis

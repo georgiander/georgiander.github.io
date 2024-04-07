@@ -1,7 +1,7 @@
 ---
 title: Portfolio Website
 layout: page
-show_sidebar: true
+menubar: projects_menu
 ---
 
 This portfolio has been live since 4/6/24. 

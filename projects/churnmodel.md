@@ -1,7 +1,7 @@
 ---
 title: Classification Models on Churn
 layout: page
-show_sidebar: true
+menubar: projects_menu
 ---
 
 # Various Classification Models on Customer Churn

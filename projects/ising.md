@@ -1,7 +1,7 @@
 ---
 title: Ising Model
 layout: page
-show_sidebar: true
+menubar: projects_menu
 ---
 
 # Ising Model
