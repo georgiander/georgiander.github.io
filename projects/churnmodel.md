@@ -10,7 +10,8 @@ This project I began while completing an IBM course in Machine Learning: Classif
 
 This report will outline the process taken for choosing a model regarding customer churn within Telco. The set uses various demographic information about the users and their service information. These factors can ultimately impact the rate at which customers are likely to leave the company. This metric is known as churn. Below is a data dictionary of all the features and their potential labels.
 
-<details><summary>Open to View Data Dictionary</summary>
+<details>
+    <summary>Open to View Data Dictionary</summary>
 
 | Feature | Labels |
 |:--- | ---:|
@@ -37,7 +38,7 @@ This report will outline the process taken for choosing a model regarding custom
 |Total Charges|Continous|
 |Churn (Target Class)|Yes, No|
 
-</details>
+</details>  
 
 Since churn is a binary metric where the outputs are simply churned or didn't churn, the goal of this exploration is to predict who will churn. In addition, I will also explore the traits of those who churn as to better interpret the results.
 
