@@ -3,8 +3,8 @@
   link: /projects/
   dropdown:
     - name: Classification Models for Customer Churn
-      link: /churnmodel/
+      link: /projects/churnmodel/
     - name: Phase Mask Creation
-      link: /phasemask/ 
+      link: /projects/phasemask/ 
     - name: Ising Model
-      link: /ising/
+      link: /projects/ising/
