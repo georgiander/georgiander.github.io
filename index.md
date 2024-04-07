@@ -24,7 +24,7 @@ Completed in tandem with high school graduation.
 -Encoded data both nominally and ordinally; removed irrelevant features, outliers, and missing data; normalized skewed data; and deduced and merged connected features.
 -Posited key insights, performed significance tests, and posed hypotheses that lead to a single feature which predicts edibility of the mushroom with 89% accuracy.
 
-- Waveform Models and Phase Masks
+### Waveform Models and Phase Masks
 - Created and captured laser diffraction patterns and perform 100 iterative transforms to produce any small image in the laser’s fourier plane.
 - Developed a library to perform Fourier transforms, create, manipulate, and send Gaussian curves in both 2D and 3D to the optical system (SLM), and calibrate the average brightness of an image.
 - Formulated a Gerchberg-Saxton algorithm to create phase masks of the incoming laser shape in order to output 8-bit images (or animations) with the physical laser.
