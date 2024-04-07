@@ -1,10 +1,10 @@
 
-- name: Resume
-  link: /resume/
 - name: Projects
   link: /projects/
   dropdown:
-    - name: Project 1
-      link: /project1/
-    - name: Project 2
-      link: /project2/ 
+    - name: Classification Models for Customer Churn
+      link: /churnmodel/
+    - name: Phase Mask Creation
+      link: /phasemask/ 
+    - name: Ising Model
+      link: /ising/

@@ -14,11 +14,10 @@ Coursework in Physics (Mechanics, Electricity, Magnetism, Optics, Simulation cod
 
 ### Portland Community College					         Beaverton, OR 2020
 AA degree with a focus on Physics. 
-Completed in tandem with high school graduation.
+Completed in tandem with high school graduation.  
 
 
 ## Projects
-
 
 ### Categorical and Continuous Data Analysis
 - Performed analysis and cleaning on  continuous (housing) data and categorical data (mushroom genuses).
@@ -37,13 +36,13 @@ Completed in tandem with high school graduation.
 ## Research and Work Experience
 
 ### Franklin and Marshall College
-Research Assistant     				                 	       September 2022–June 2023
+**Research Assistant**		                 	       September 2022–June 2023
 - Precisely manufactured a Michelson interferometer to establish  3 orders of Laguerre-Gauss beams using an SLM.
 - Installed a liquid coolant system within an SLM leading to a 8 hour increase in usability.
 - Automated data collection and improved efficiency of the post-experiment analysis.
 
 ## Franklin and Marshall College
-Summer Research Assistant     			           	   		      June–July 2022
+**Summer Research Assistant**    	 		      June–July 2022
 - Installed and tested a new SLM calibrated for 532 nm.
 - Synthesized a unique python program to improve experiment conduction time by 30%.
 - Implemented a Gerchberg-Saxton algorithm to create phase masks that required  around 40% less iterations than typical GS algorithms.
@@ -55,7 +54,9 @@ Summer Research Assistant     			           	   		      June–July 2022
 
 
 Exploratory Data Analysis for Machine Learning (IBM)
+
 Supervised Machine Learning: Regression and Classification (IBM)
+
 IBM Machine Learning Professional Certificate (in-progress)
 
 
