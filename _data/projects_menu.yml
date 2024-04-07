@@ -6,11 +6,11 @@ label: Data Analytics
 label: Simulation Modeling
   items:
     - name: Phase Masking Laser Images
-      link: projects/phasemask/
+      link: /projects/phasemask/
     - name: Ising Model
-      link: projects/modeling/
+      link: /projects/modeling/
 
 label: Other Projects
   items:
     - name: Portfolio Website
-      link: projects/website/
+      link: /projects/website/
