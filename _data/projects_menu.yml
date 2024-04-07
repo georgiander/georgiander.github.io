@@ -1,16 +1,16 @@
-label: Data Analytics
+- label: Data Analytics
   items:
     - name: Customer Churn
       link: /projects/churnmodel/
 
-label: Simulation Modeling
+- label: Simulation Modeling
   items:
     - name: Phase Masking Laser Images
       link: /projects/phasemask/
     - name: Ising Model
       link: /projects/modeling/
 
-label: Other Projects
+- label: Other Projects
   items:
     - name: Portfolio Website
       link: /projects/website/
