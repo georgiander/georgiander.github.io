@@ -64,7 +64,7 @@ defaults:
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
 
-markdown: kramdown
+markdown: GFM
 highlighter: rouge
 
 footer_menu: footer
