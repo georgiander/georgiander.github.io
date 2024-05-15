@@ -57,15 +57,15 @@ Exploratory Data Analysis for Machine Learning (IBM)
 
 Supervised Machine Learning: Regression and Classification (IBM)
 
-IBM Machine Learning Professional Certificate (in-progress)
+IBM Machine Learning Professional Certificate 
 
 
 ## Skills
 
 
-**Languages and Libraries:** Python (pandas, seaborn, matplotlib, scikit), SQL, LaTeX
+**Languages and Libraries:** Python (pandas, seaborn, matplotlib, scikit, tensorflow, keras), SQL
 
-**Data Analytics:** regression and classification models, hypothesis testing, data visualization, EDA, supervised machine learning, image processing
+**Data Analytics:** regression and classification models, hypothesis testing, data visualization, EDA, neural networks, image processing
 
 **Other Skills:** German, optics, optical hardware, laser manipulation, fourier analysis
 

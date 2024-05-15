@@ -6,7 +6,7 @@ menubar: projects_menu
 
 # Various Classification Models on Customer Churn
 
-[GitHub Repository](georgiander.github.io)
+[GitHub Repository](https://github.com/georgiander/Data-Analysis-Projects/blob/master/CustomerChurnAnalysis.ipynb)
 
 The link above is in progress. It is not currently usable.
 
