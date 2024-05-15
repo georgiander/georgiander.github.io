@@ -8,8 +8,6 @@ menubar: projects_menu
 
 [GitHub Repository](https://github.com/georgiander/Data-Analysis-Projects/blob/master/CustomerChurnAnalysis.ipynb)
 
-The link above is in progress. It is not currently usable.
-
 This project I began while completing an IBM course in Machine Learning: Classification. This page is a log of all I have accomplished with this project and the code behind it is accessible via the link at the top of the page.
 
 ## Introduction
@@ -66,14 +64,14 @@ The majority of the preprocessing of this dataset is encoding the data in variou
 ### Unbalanced Classes
 The target class, 'Churn', has an unbalanced value count, as shown below. This is not relevant currently, but is important to note for the outcome of the models. Unbalanced data like this can often lead to underfitting the lower class.
 
-![refimg](ChurnCount.png)
+![refimg](\refimgs\ChurnCount.png)
 
 ### Feature Correlation
 After cleaning the data up, I created a following correlation graph. This graph show the relationship between all the aspects of the dataset. 
 
 The deeper red the square, the higher the correlation. Most of the squares above are in the blue spectrum which means that the overall correlation of the features is low. With that being said, I expect the ability of future models to be limited.
 
-![refimg](heatmap.png)
+![refimg](\refimgs\heatmap.png)
 
 
 ## Classification Models
@@ -92,7 +90,7 @@ Next, I utilized a grid search with logistic regression to run a new model. This
 
 When you compare the model to the baseline, the performance increase is clear. The tuned model doubles the performance. With this model, it is easy to get an idea of who will churn, though there might be some incorrect labels. Furthermore, the coefficients of the model will give us the feature importance for the model, which is shown below.
 
-![refimg](Imp_LR.png)
+![refimg](\refimgs\Imp_LR.png)
 
 ### Tuned Random Forest Model
 The next model I fit was a Random Forest, which is an ensemble method and should perform similarly. This model's strength is in it's forest. Since it has the ability to cast such a wide net, it may also catch features that the logistic regression underrepresented. As expected, the tuned model performed just as well as the logistic regression model, as shown below.
@@ -106,7 +104,7 @@ I would like to clarify that the grid search conditions are set to optimize the 
 
 The feature importances for this model are different than the first one and put much more weight on the MonthlyCharge than its counterpart.
 
-![refimg](Imp_RF.png)
+![refimg](\refimgs\Imp_RF.png)
 
 ### SMOTE Random Forest
 
