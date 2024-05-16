@@ -10,7 +10,7 @@ menubar: projects_menu
 
 This project I began while completing an IBM course in Machine Learning: Classification. This page is a log of all I have accomplished with this project and the code behind it is accessible via the link at the top of the page.
 
-## Introduction
+**Preface**
 
 This report will outline the process taken for choosing a model regarding customer churn within Telco. The set uses various demographic information about the users and their service information. These factors can ultimately impact the rate at which customers are likely to leave the company. This metric is known as churn. Below is a data dictionary of all the features and their potential labels.
 
