@@ -17,7 +17,6 @@ This project was the culmination of my work using spatial light modulation (SLM)
 *Initial Imaging*
 
 In order to begin to map phase masks, a clean image of a beam is required from the reference point of the SLM. As SLMs have no camera interface, a fake beam needed to be created to replicate one. First, a gaussian beam would need to be created and placed at the right amplitude and location within an image to accurately map the incoming beam on the SLM. Below is an example of the outputted gaussian 'beams' set to a contour image.
-html
 
 
 <style>
@@ -32,15 +31,15 @@ html
 <div class="image123">
     <div class="imgContainer">
         <img src="refimgs/3D_Gaussian.png" height="200" width="200"/>
-        <p>This is image 1</p>
+        <p>3D Rendering</p>
     </div>
     <div class="imgContainer">
         <img class="middle-img" src="refimgs/Gaussian_Mask_(Contour).png" height="200" width="200"/>
-        <p>This is image 2</p>
+        <p>2D Contour Mask</p>
     </div>
     <div class="imgContainer">
         <img src="refimgs/Splice.png" height="200" width="200"/>
-        <p>This is image 3</p>
+        <p>1D Splice to show amplitude</p>
     </div>
 </div>
 
