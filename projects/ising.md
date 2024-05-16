@@ -6,6 +6,10 @@ menubar: projects_menu
 
 # Ising Model
 
+[GitHub Repository]()
+
+Link is currently offline, please be patient
+
 **Preface**
 
 The Ising model is a model that is used to study the magnetic properties of materials. Specifically, it is used to model ferromagnetism and the random alignment of iron within an electromagnetic field.
